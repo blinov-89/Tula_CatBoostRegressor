@@ -9,4 +9,4 @@
 - Преобразование значений в дату
 - Обучение CatBoostRegressor()
 
-
+![тула](https://user-images.githubusercontent.com/61515881/209781343-368dc6c2-1e77-4d07-9698-f27438c9cb8e.png)
